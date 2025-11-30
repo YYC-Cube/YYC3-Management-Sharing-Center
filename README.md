@@ -259,9 +259,9 @@ NEXT_PUBLIC_APP_NAME=YanYu Cloud Sharing E-center
 
 ## 📞 联系我们
 
-- 项目主页: [YanYu Cloud Sharing](https://yanyu.cloud)
-- 技术支持: support@yanyu.cloud
-- 文档中心: [docs.yanyu.cloud](https://docs.yanyu.cloud)
+- 项目主页: https://e.mamgmt.top
+- 技术支持: admin@0379.email
+- GitHub: https://github.com/YYC-Cube/yyc3-sharing-E-center.git
 
 ## 🙏 致谢
 
